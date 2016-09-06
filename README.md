@@ -1,3 +1,3 @@
-Pascal native implmentation of libmpdclient
+Pascal native implementation of libmpdclient
 
 Status: work in progress
